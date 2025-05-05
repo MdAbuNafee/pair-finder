@@ -1,4 +1,4 @@
-# Nordhealth-Python-Task
+# pair-finder
 
 ## Task given to me
 ![](./problem.png)
